@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.deps.json
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.runtimeconfig.json
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.dll
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\bin\Debug\netcoreapp2.1\6-print_string.pdb
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.dll
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x00-csharp-hello_world\6-print_string\obj\Debug\netcoreapp2.1\6-print_string.pdb
