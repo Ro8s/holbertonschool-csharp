@@ -23,7 +23,6 @@ namespace _14_rectangular_array
                         Console.Write("0 ");
                     }
                 }
-                Console.WriteLine();
             }
         }
     }
