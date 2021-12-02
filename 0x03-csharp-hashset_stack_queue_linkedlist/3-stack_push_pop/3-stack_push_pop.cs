@@ -6,7 +6,7 @@ class MyStack
     public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
         Console.WriteLine("Number of items: {0}", aStack.Count);
-        if (aStack.Peek() == null)
+        if (aStack.Peek() == null || aStack.Count <= 0)
         {
             Console.WriteLine("Stack is empty");
             Console.WriteLine("Stack contains \"{0}\": False", search);
