@@ -7,7 +7,7 @@ class Dictionary
     {
         var d = new Dictionary<string, int>();
         
-        foreach (var item in myDict)
+        foreach (KeyValuePair<string, int> item in myDict)
         {
             d.Add(item.Key, item.Value);
         }
