@@ -9,7 +9,7 @@ class Dictionary
         
         foreach (KeyValuePair<string, int> item in myDict)
         {
-            d.Add(item.Key, item.Value);
+            d.Add(item.Key, item.Value * 2);
         }
         return (d);
     }
