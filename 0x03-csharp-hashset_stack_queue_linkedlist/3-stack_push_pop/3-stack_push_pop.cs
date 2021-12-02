@@ -9,7 +9,7 @@ class MyStack
         if (aStack.Peek() == null)
         {
             Console.WriteLine("Stack is empty");
-            Console.WriteLine("Stack contains {0}: False", search);
+            Console.WriteLine("Stack contains \"{0}\": False", search);
             aStack.Push(newItem);
             return(aStack);
         }
@@ -27,11 +27,11 @@ class MyStack
         }
         if (isIn == false)
         {
-            Console.WriteLine("Stack contains {0}: False", search);
+            Console.WriteLine("Stack contains \"{0}\": False", search);
             aStack.Push(newItem);
             return(aStack);
         }
-        Console.WriteLine("Stack contains {0}: True", search);
+        Console.WriteLine("Stack contains \"{0}\": True", search);
         while (aStack.Contains(search))
         {
             aStack.Pop();
