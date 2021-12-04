@@ -8,27 +8,30 @@ class LList
         LinkedListNode<int> newnode = myLList.First;
         if (newnode.Value > n)
         {
-            if (newnode.Next == null)
-            {
-                newnode = myLList.AddFirst(n);
-                return(newnode);
-            }
+            myLList.AddFirst(n);
+            newnode = myLList.First;
+            return(newnode);
         }
         foreach (var node in myLList)
         {
-            if (n > newnode.Value && n < newnode.Next.Value)
+            if (n > newnode.Value)
             {
-                myLList.AddAfter(newnode, n);
-                break;
+                if (newnode.Next == null)
+                {
+                    myLList.AddAfter(newnode, n);
+                    newnode = newnode.Next;
+                    break;
+                }
+                else if (n < newnode.Next.Value)
+                {
+                    myLList.AddAfter(newnode, n);
+                    newnode = newnode.Next;
+                    break;
+                }
             }
-            else
-            {
-                newnode = newnode.Next;
-            }
-            
+            newnode = newnode.Next;
         }
         return(newnode);
-
     }
 }
 

@@ -9,8 +9,14 @@ class Program
         LinkedList<int> myLList = new LinkedList<int>();
         LinkedListNode<int> current;
 
-        myLList.AddLast(0);
-        
+        myLList.AddLast(7);
+        myLList.AddLast(11);
+        myLList.AddLast(15);
+        myLList.AddLast(19);
+        myLList.AddLast(23);
+        myLList.AddLast(27);
+        myLList.AddLast(31);
+
         current = myLList.First;
         while (current != null)
         {
@@ -19,7 +25,7 @@ class Program
         }
 
         Console.WriteLine("------------------");
-        LList.Insert(myLList, -1);
+        LList.Insert(myLList, 3);
 
         current = myLList.First;
         while (current != null)
