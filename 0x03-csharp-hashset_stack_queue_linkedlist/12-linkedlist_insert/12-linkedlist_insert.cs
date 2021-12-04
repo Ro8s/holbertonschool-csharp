@@ -22,7 +22,7 @@ class LList
                     newnode = newnode.Next;
                     break;
                 }
-                else if (n < newnode.Next.Value)
+                else if (n <= newnode.Next.Value)
                 {
                     myLList.AddAfter(newnode, n);
                     newnode = newnode.Next;
