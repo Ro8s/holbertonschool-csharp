@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp2.1\13-linkedlist_delete.deps.json
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp2.1\13-linkedlist_delete.runtimeconfig.json
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp2.1\13-linkedlist_delete.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp2.1\13-linkedlist_delete.dll
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\netcoreapp2.1\13-linkedlist_delete.pdb
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp2.1\13-linkedlist_delete.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp2.1\13-linkedlist_delete.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp2.1\13-linkedlist_delete.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp2.1\13-linkedlist_delete.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp2.1\13-linkedlist_delete.dll
+C:\Users\Administrador\Desktop\holberton\a\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\netcoreapp2.1\13-linkedlist_delete.pdb
