@@ -6,7 +6,7 @@ class LList
     public static LinkedListNode<int> Insert(LinkedList<int> myLList, int n)
     {
         LinkedListNode<int> newnode = myLList.First;
-        if (newnode.Value > n)
+        if (newnode.Value > n && n < newnode.Next.Value)
         {
             myLList.AddFirst(n);
             newnode = myLList.First;
