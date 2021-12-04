@@ -5,7 +5,7 @@ class Dictionary
 {
     public static string BestScore(Dictionary<string, int> myList)
     {
-        string last = null;
+        string last = "None";
         foreach (KeyValuePair<string, int> item in myList.OrderBy(key => key.Value))
         {
             last = item.Key;
