@@ -1,7 +1,5 @@
 ﻿using System;
 
-///<summary>Create a new namespace Enemies.</summary>
-
 namespace Enemies
 {
 
