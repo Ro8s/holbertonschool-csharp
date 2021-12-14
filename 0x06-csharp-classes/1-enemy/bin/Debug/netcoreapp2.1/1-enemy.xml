@@ -7,5 +7,11 @@
         <member name="T:Enemies.Zombie">
             <summary>Class Zombie. Defines health and a construct set to 0</summary>
         </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>Health field</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Public contructor <see cref="T:Enemies.Zombie"/> class</summary>
+        </member>
     </members>
 </doc>

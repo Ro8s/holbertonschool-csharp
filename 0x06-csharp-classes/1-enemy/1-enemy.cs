@@ -9,7 +9,7 @@ namespace Enemies
         ///<summary>Health field</summary>
         public int health;
 
-        ///<summary>Public contructor Zombie</summary>
+        ///<summary>Public contructor <see cref="Zombie"/> class</summary>
         public Zombie()
         {
             ///<summary>Set health = 0</summary>
