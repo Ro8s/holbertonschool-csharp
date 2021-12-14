@@ -12,7 +12,6 @@ namespace Enemies
         ///<summary>Public contructor <see cref="Zombie"/> class</summary>
         public Zombie()
         {
-            ///<summary>Set health = 0</summary>
             health = 0;
         }
 
