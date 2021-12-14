@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>Class Zombie. Defines health and a construct set to 0</summary>
+        </member>
+    </members>
+</doc>
