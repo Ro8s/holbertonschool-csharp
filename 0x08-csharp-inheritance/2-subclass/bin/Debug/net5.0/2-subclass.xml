@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-subclass</name>
+    </assembly>
+    <members>
+        <member name="M:Obj.IsOnlyASubclass(System.Type,System.Type)">
+            <summary>Checks if derivedType is a sublcass of basetype</summary>
+        </member>
+    </members>
+</doc>

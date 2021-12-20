@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\2-subclass.exe
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\2-subclass.deps.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\2-subclass.runtimeconfig.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\2-subclass.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\2-subclass.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\ref\2-subclass.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\2-subclass.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\ref\2-subclass.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\obj\Debug\net5.0\2-subclass.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\2-subclass\bin\Debug\net5.0\2-subclass.xml
