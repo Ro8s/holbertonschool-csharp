@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-shape</name>
+    </assembly>
+    <members>
+        <member name="M:Shape.Area">
+            <summary> method that throw a NotImplementedException </summary>
+        </member>
+        <member name="F:Rectangle.width">
+            <summary>width field</summary>
+        </member>
+        <member name="F:Rectangle.height">
+            <summary>height field</summary>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>Gets or sets the width.</summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>Gets or sets the Height.</summary>
+        </member>
+    </members>
+</doc>
