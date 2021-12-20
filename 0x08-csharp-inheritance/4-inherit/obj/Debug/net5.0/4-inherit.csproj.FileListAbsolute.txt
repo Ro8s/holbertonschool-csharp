@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\net5.0\4-inherit.exe
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\net5.0\4-inherit.deps.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\net5.0\4-inherit.runtimeconfig.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\net5.0\4-inherit.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\net5.0\4-inherit.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\net5.0\ref\4-inherit.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\net5.0\4-inherit.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\ref\4-inherit.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\net5.0\4-inherit.genruntimeconfig.cache
