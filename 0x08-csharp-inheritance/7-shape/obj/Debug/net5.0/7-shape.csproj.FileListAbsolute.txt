@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\Debug\net5.0\7-shape.exe
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\Debug\net5.0\7-shape.deps.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\Debug\net5.0\7-shape.runtimeconfig.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\Debug\net5.0\7-shape.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\Debug\net5.0\7-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\Debug\net5.0\ref\7-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\bin\Debug\net5.0\7-shape.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\ref\7-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\7-shape\obj\Debug\net5.0\7-shape.genruntimeconfig.cache
