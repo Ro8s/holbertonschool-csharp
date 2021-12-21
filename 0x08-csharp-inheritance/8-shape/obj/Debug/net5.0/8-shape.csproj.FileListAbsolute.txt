@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\net5.0\8-shape.exe
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\net5.0\8-shape.deps.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\net5.0\8-shape.runtimeconfig.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\net5.0\8-shape.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\net5.0\8-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\net5.0\ref\8-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\net5.0\8-shape.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\ref\8-shape.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\net5.0\8-shape.genruntimeconfig.cache
