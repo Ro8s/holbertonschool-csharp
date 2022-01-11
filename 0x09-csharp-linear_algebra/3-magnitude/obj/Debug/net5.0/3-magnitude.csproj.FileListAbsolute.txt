@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\net5.0\3-magnitude.exe
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\net5.0\3-magnitude.deps.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\net5.0\3-magnitude.runtimeconfig.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\net5.0\3-magnitude.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\net5.0\3-magnitude.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\net5.0\ref\3-magnitude.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\net5.0\3-magnitude.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\ref\3-magnitude.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\net5.0\3-magnitude.genruntimeconfig.cache
