@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net5.0\9-vector_scalar_mul.exe
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net5.0\9-vector_scalar_mul.deps.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net5.0\9-vector_scalar_mul.runtimeconfig.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net5.0\9-vector_scalar_mul.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net5.0\9-vector_scalar_mul.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net5.0\ref\9-vector_scalar_mul.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\net5.0\9-vector_scalar_mul.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\ref\9-vector_scalar_mul.dll
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.pdb
+C:\Users\Administrador\Desktop\buenas\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\net5.0\9-vector_scalar_mul.genruntimeconfig.cache
