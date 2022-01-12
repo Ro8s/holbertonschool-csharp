@@ -1,7 +1,14 @@
 ﻿using System;
 
+/// <summary> VectorMath Class </summary>
 class VectorMath
 {
+	/// <summary>
+	/// Method that adds two vectors
+	/// </summary>
+	/// <param name="vector1">First vector</param>
+	/// <param name="vector2">Second vector</param>
+	/// <returns>The addition between vector1 and vector2</returns>
 	public static double[] Add(double[] vector1, double[] vector2)
 	{
 		if (vector1.Length != vector2.Length)
