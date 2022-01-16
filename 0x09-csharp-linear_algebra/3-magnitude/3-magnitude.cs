@@ -1,10 +1,12 @@
 ﻿using System;
 
-/// <summary> VectorMath Class </summary>
+/// <summary>
+/// VectorMath class
+/// </summary>
 class VectorMath
 {
 	/// <summary>
-	/// Mehtod that gives the magnitue of a vector
+	/// method that gives the magnitue of a vector
 	/// </summary>
 	/// <param name="vector">2D or 3D vector</param>
 	/// <returns>Length of a vector</returns>
@@ -14,13 +16,13 @@ class VectorMath
         {
 			return (-1);
         }
-		double res = 0;
 		double op;
-		foreach (var val in vector)
+		double res = 0;
+		foreach (var elem in vector)
         {
-			op = val * val;
-			res = res + op;
+			op = elem * elem;
+			res += res;
         }
-		return (Math.Round(Math.Sqrt(res), 2);
+		return (Math.Round(Math.Sqrt(res),2));
 	}
 }
