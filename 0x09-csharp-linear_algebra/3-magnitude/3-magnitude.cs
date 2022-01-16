@@ -21,7 +21,7 @@ class VectorMath
 		foreach (var elem in vector)
         {
 			op = elem * elem;
-			res += res + op;
+			res += op;
         }
 		return (Math.Round(Math.Sqrt(res),2));
 	}
