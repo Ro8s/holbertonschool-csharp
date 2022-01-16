@@ -16,7 +16,7 @@ class VectorMath
         }
 		double res = 0;
 		double op;
-		foreach (double val in vector)
+		foreach (var val in vector)
         {
 			op = val * val;
 			res = res + op;
