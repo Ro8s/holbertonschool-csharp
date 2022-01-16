@@ -16,12 +16,12 @@ class VectorMath
         {
 			return (-1);
         }
-		double op;
+		double op = 0;
 		double res = 0;
 		foreach (var elem in vector)
         {
 			op = elem * elem;
-			res += res;
+			res += res + op;
         }
 		return (Math.Round(Math.Sqrt(res),2));
 	}
