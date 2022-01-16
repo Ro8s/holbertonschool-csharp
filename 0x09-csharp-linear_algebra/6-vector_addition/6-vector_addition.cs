@@ -11,19 +11,20 @@ class VectorMath
 	/// <returns>The addition between vector1 and vector2</returns>
 	public static double[] Add(double[] vector1, double[] vector2)
 	{
+		double[] error = new double[] {-1};
 		if (vector1.Length != vector2.Length)
         {
-			return (-1);
+			return (error);
         }
-		if (vector1.Length < 2 || vector1.Length > 3)
+		if (vector1.Length != 2 && vector1.Length != 3)
         {
-			return (-1);
+			return (error);
         }
-		if (vector2.Length < 2 || vector2.Length > 3)
+		if (vector2.Length != 2 && vector2.Length != 3)
 		{
-			return (-1);
+			return (error);
 		}
-		double[] res = new double[vector1.Length]
+		double[] res = new double[vector1.Length];
 		for(int i = 0; i < vector1.Length; i++)
         {
 			res[i] = vector1[i] + vector2[i];
