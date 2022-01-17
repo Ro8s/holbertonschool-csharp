@@ -22,7 +22,7 @@ class MatrixMath
 		{
 			return (error);
 		}
-		else if (matrix1.GetLength(0) != matrix1.GetLength(1))
+		if (matrix1.GetLength(0) != matrix1.GetLength(1))
         {
 			return (error);
         }
@@ -30,14 +30,14 @@ class MatrixMath
 		{
 			return (error);
 		}
-		else if (matrix2.GetLength(0) != matrix2.GetLength(1))
+		if (matrix2.GetLength(0) != matrix2.GetLength(1))
         {
 			return (error);
         }
 		double[,] res = matrix1;
 		for (int i = 0; i < matrix1.GetLength(0); i++)
         {
-			for (int j = 0; j < matrix1.GetLength(i); j++)
+			for (int j = 0; j < matrix1.GetLength(1); j++)
             {
 				res[i, j] += matrix2[i, j];
             }
