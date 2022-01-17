@@ -35,7 +35,7 @@ class MatrixMath
 			return (error);
         }
 		double[,] res = matrix1;
-		for (int i = 0; i < matrix1.Rank; i++)
+		for (int i = 0; i < matrix1.GetLength(0); i++)
         {
 			for (int j = 0; j < matrix1.GetLength(i); j++)
             {
