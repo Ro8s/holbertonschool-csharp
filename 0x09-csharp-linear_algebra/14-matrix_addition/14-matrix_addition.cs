@@ -22,10 +22,18 @@ class MatrixMath
 		{
 			return (error);
 		}
+		else if (matrix1.GetLength(0) != matrix1.GetLength(1))
+        {
+			return (error);
+        }
 		if (matrix2.Length != 4 && matrix2.Length != 9)
 		{
 			return (error);
 		}
+		else if (matrix2.GetLength(0) != matrix2.GetLength(1))
+        {
+			return (error);
+        }
 		double[,] res = matrix1;
 		for (int i = 0; i < matrix1.Rank; i++)
         {
