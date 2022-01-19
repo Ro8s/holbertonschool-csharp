@@ -22,7 +22,7 @@ class MatrixMath
 		{
 			return (error);
 		}
-		double[,] rotation = new double[,] { { Math.Cos(angle), Math.Sin(angle)}, { Math.Sin(angle), Math.Cos(angle)} };
+		double[,] rotation = new double[2,2] { { Math.Cos(angle), Math.Sin(angle)}, { Math.Sin(angle), Math.Cos(angle)} };
 		if (angle < 0)
         {
 			rotation[2, 1] *= -1;
@@ -31,7 +31,7 @@ class MatrixMath
         {
 			rotation[1, 2] *= -1;
         }
-		double[,] res = new double[matrix.GetLength(0), rotation.GetLength(1)];
+		double[,] res = new double[matrix.GetLength(0), matrix.GetLength(1)];
 		double op = 0;
 		for (int i = 0; i < matrix.GetLength(0); i++)
 		{
