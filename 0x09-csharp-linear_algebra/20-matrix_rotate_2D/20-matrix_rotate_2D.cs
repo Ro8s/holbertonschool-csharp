@@ -14,10 +14,6 @@ class MatrixMath
 	public static double[,] Rotate2D(double[,] matrix, double angle)
 	{
 		double[,] error = new double[,] { { -1 } };
-		if (matrix.Length != 4)
-		{
-			return (error);
-		}
 		if (matrix.GetLength(0) != matrix.GetLength(1))
 		{
 			return (error);
@@ -34,7 +30,7 @@ class MatrixMath
 				{
 					op += matrix[i, k] * rotation[k, j];
 				}
-				res[i, j] = op;
+				res[i, j] = Math.Round(op);
 			}
 		}
 		return (res);
