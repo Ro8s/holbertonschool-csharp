@@ -30,7 +30,7 @@ class MatrixMath
 				{
 					op += matrix[i, k] * rotation[k, j];
 				}
-				res[i, j] = Math.Round(op);
+				res[i, j] = Math.Round(op, 2);
 			}
 		}
 		return (res);
