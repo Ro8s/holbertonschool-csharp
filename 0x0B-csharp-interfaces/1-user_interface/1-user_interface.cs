@@ -24,7 +24,10 @@ public abstract class Base
 /// IInteractive interface
 /// </summary>
 public interface IInteractive
-{ 
+{
+    /// <summary>
+    /// Function Interact
+    /// </summary>
     void Interact();
 }
 
@@ -33,7 +36,14 @@ public interface IInteractive
 /// </summary>
 public interface IBreakable
 {
+    /// <summary>
+    /// durability int property
+    /// </summary>
     int durability { get; set; }
+
+    /// <summary>
+    /// Break function
+    /// </summary>
     void Break();
 }
 
@@ -42,7 +52,14 @@ public interface IBreakable
 /// </summary>
 public interface ICollectable
 {
+    /// <summary>
+    /// isCollected bool property
+    /// </summary>
     bool isCollected { get; set; }
+    
+    /// <summary>
+    /// Collect function
+    /// </summary>
     void Collect();
 }
 
