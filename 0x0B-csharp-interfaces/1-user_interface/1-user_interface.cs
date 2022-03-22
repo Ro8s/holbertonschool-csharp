@@ -66,7 +66,7 @@ public interface ICollectable
 /// <summary>
 /// TestObject class that inherts Base and all interfaces crated
 /// </summary>
-public class TestObject : Base, IInteractive, IBreakable, ICollectable
+class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
 
     /// <summary>
@@ -77,7 +77,7 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// <summary>
     /// Interact method from IInteractive interface
     /// </summary>
-    void IInteractive.Interact()
+    public void Interact()
     {
 
     }
@@ -85,7 +85,7 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// <summary>
     /// Break method from IBreakable interface
     /// </summary>
-    void IBreakable.Break()
+    public void Break()
     {
 
     }
@@ -93,7 +93,7 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// <summary>
     /// Collect method from ICollectable interface
     /// </summary>
-    void ICollectable.Collect()
+    public void Collect()
     {
     
     }
