@@ -67,7 +67,12 @@ public interface ICollectable
 /// TestObject class that inherts Base and all interfaces crated
 /// </summary>
 public class TestObject : Base, IInteractive, IBreakable, ICollectable
-{ 
+{
+    /// <summary>
+    /// name property
+    /// </summary>
+    public string name { get; set; }
+
     /// <summary>
     /// durability int property
     /// </summary>
