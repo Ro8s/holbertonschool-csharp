@@ -5,7 +5,7 @@
 /// </summary>
 public abstract class Base
 {
-	/// <summary>
+    /// <summary>
     /// name string property
     /// </summary>
     public string name { get; set; }
