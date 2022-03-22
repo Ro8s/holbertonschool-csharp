@@ -5,8 +5,10 @@
 /// </summary>
 public abstract class Base
 {
-	public string name { get; set; }
-
+	/// <summary>
+    /// name string property
+    /// </summary>
+    public string name { get; set; }
 
     /// <summary>
     /// Override ToString Method toreturn an specific output
