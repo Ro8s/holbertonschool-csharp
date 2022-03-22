@@ -68,10 +68,6 @@ public interface ICollectable
 /// </summary>
 public class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
-    /// <summary>
-    /// name property
-    /// </summary>
-    public string name { get; set; }
 
     /// <summary>
     /// durability int property
