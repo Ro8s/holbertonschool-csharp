@@ -64,7 +64,7 @@ public interface ICollectable
 }
 
 /// <summary>
-/// TestObject class that inherts Base and all interfaces crated
+/// Door class that inherts Base and IInteractive
 /// </summary>
 class Door : Base, IInteractive
 {
@@ -87,7 +87,7 @@ class Door : Base, IInteractive
 
 
 /// <summary>
-/// TestObject class that inherts Base and all interfaces crated
+/// Decoration class that inherts Base, IInteractive and IBreakable
 /// </summary>
 class Decoration : Base, IInteractive, IBreakable
 {
@@ -97,7 +97,7 @@ class Decoration : Base, IInteractive, IBreakable
     public int durability { get; set; }
 
     /// <summary>
-    /// isquestitem bool
+    /// isQuestItem bool
     /// </summary>
     public bool isQuestItem;
 
@@ -125,15 +125,15 @@ class Decoration : Base, IInteractive, IBreakable
     {
         if (durability <= 0)
         {
-            Console.WriteLine($"The {name} has been broken.");
+            Console.WriteLine($"The {this.name} has been broken.");
         }
         else if (isQuestItem == true)
         {
-            Console.WriteLine($"You look at the {name}. There's a key inside.");
+            Console.WriteLine($"You look at the {this.name}. There's a key inside.");
         }
         else if (isQuestItem == false)
         {
-            Console.WriteLine($"You look at the {name}. Not much to see here.");
+            Console.WriteLine($"You look at the {this.name}. Not much to see here.");
         }
     }
 
@@ -145,15 +145,15 @@ class Decoration : Base, IInteractive, IBreakable
         durability--;
         if (durability > 0)
         {
-            Console.WriteLine($"You hit the {name}. It cracks.");
+            Console.WriteLine($"You hit the {this.name}. It cracks.");
         }
         if (durability == 0)
         {
-            Console.WriteLine($"You smash the {name} What a mess.");
+            Console.WriteLine($"You smash the {this.name} What a mess.");
         }
         if (durability < 0)
         {
-            Console.WriteLine($"The {name} is already broken.");
+            Console.WriteLine($"The {this.name} is already broken.");
         }
     }
 }
