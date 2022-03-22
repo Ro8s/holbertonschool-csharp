@@ -66,6 +66,29 @@ public interface ICollectable
 /// <summary>
 /// TestObject class that inherts Base and all interfaces crated
 /// </summary>
+class Door : Base, IInteractive
+{
+
+    /// <summary>
+    /// Interact method from IInteractive interface
+    /// </summary>
+    public void Interact()
+    {
+        Console.WriteLine($"You try to open the {name}. It's locked.");
+    }
+
+    /// <summary>
+    /// Constructor for Door class
+    /// </summary>
+    /// <param name="n">name to the door</param>
+    public Door(string n = "Door") => name = n;
+
+}
+
+
+/// <summary>
+/// TestObject class that inherts Base and all interfaces crated
+/// </summary>
 class Decoration : Base, IInteractive, IBreakable
 {
     /// <summary>
@@ -81,9 +104,9 @@ class Decoration : Base, IInteractive, IBreakable
     /// <summary>
     /// Decoration constructor
     /// </summary>
-    /// <param name="n">name</param>
-    /// <param name="d">durability</param>
-    /// <param name="isq">isQuestItem</param>
+    /// <param name="n">argument name</param>
+    /// <param name="d">argument durabilirty</param>
+    /// <param name="isq">argument isQuestItem</param>
     public Decoration(string n = "Decoration", int d = 1, bool isq = false)
     {
         if (d <= 0)
