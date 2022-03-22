@@ -86,11 +86,11 @@ class Decoration : Base, IInteractive, IBreakable
     /// <param name="isq">isQuestItem</param>
     public Decoration(string n = "Decoration", int d = 1, bool isq = false)
     {
-        name = n;
         if (d <= 0)
         {
-            throw new ArgumentException("Durability must be greater than 0");
+            throw new Exception("Durability must be greater than 0");
         }
+        name = n;
         durability = d;
         isQuestItem = isq;
     }
@@ -100,7 +100,7 @@ class Decoration : Base, IInteractive, IBreakable
     /// </summary>
     public void Interact()
     {
-        if (durability < 0)
+        if (durability <= 0)
         {
             Console.WriteLine($"The {name} has been broken.");
         }
@@ -108,7 +108,7 @@ class Decoration : Base, IInteractive, IBreakable
         {
             Console.WriteLine($"You look at the {name}. There's a key inside.");
         }
-        if (isQuestItem == false)
+        else if (isQuestItem == false)
         {
             Console.WriteLine($"You look at the {name}. Not much to see here.");
         }
