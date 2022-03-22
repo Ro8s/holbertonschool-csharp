@@ -77,6 +77,7 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// durability int property
     /// </summary>
     public int durability { get; set; }
+
     /// <summary>
     /// Interact method from IInteractive interface
     /// </summary>
@@ -98,7 +99,7 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// </summary>
     void ICollectable.Collect()
     {
-
+    
     }
 
     /// <summary>
