@@ -55,19 +55,30 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// durability int property
     /// </summary>
     public int durability { get; set; }
+    /// <summary>
+    /// Interact method from IInteractive interface
+    /// </summary>
     void IInteractive.Interact()
     {
 
     }
-
+    
+    /// <summary>
+    /// Break method from IBreakable interface
+    /// </summary>
     void IBreakable.Break()
     {
 
     }
+
+    /// <summary>
+    /// Collect method from ICollectable interface
+    /// </summary>
     void ICollectable.Collect()
     {
 
     }
+
     /// <summary>
     /// isCollected bool property
     /// </summary>
