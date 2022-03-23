@@ -1,123 +1,97 @@
 ﻿using System;
 
-/// <summary>
-/// Abstarct Base class
-/// </summary>
-public abstract class Base
+///<summary>Base Class</summary>
+abstract class Base
 {
-    /// <summary>
-    /// name string property
-    /// </summary>
-    public string name { get; set; }
+    ///<summary>Property name</summary>
+    public string name { set; get; }
 
-    /// <summary>
-    /// Override ToString Method toreturn an specific output
-    /// </summary>
-    /// <returns>[name] is a [type of class]</returns>
+    ///<summary>Returns the string representation of a Base object</summary>
     public override string ToString()
     {
-        return this.name + " is a " + this.GetType(); 
+        return $"{this.name} is a {this.GetType().Name}";
     }
 }
 
-/// <summary>
-/// IInteractive interface
-/// </summary>
-public interface IInteractive
+///<summary>IInteractive Interface</summary>
+interface IInteractive
 {
-    /// <summary>
-    /// Function Interact
-    /// </summary>
+    ///<summary>Delcaration of method Interact</summary>
+
     void Interact();
 }
 
-/// <summary>
-/// Ibreakable interface
-/// </summary>
-public interface IBreakable
+///<summary>IBreakable Interface</summary>
+interface IBreakable
 {
-    /// <summary>
-    /// durability int property
-    /// </summary>
-    int durability { get; set; }
+    ///<summary>property durability</summary>
+    int durability { set; get; }
 
-    /// <summary>
-    /// Break function
-    /// </summary>
+    ///<summary>method Break</summary>
     void Break();
 }
 
-/// <summary>
-/// ICollectable interface
-/// </summary>
-public interface ICollectable
+///<summary>ICollectable Interface</summary>
+interface ICollectable
 {
-    /// <summary>
-    /// isCollected bool property
-    /// </summary>
-    bool isCollected { get; set; }
-    
-    /// <summary>
-    /// Collect function
-    /// </summary>
+    ///<summary>property isCollected</summary>
+    bool isCollected { set; get; }
+
+    ///<summary>method Collect</summary>
     void Collect();
 }
 
-/// <summary>
-/// Door class that inherts Base and IInteractive
-/// </summary>
+
+
+///<summary>Door Class that inherts base and IInteractive</summary>
 class Door : Base, IInteractive
 {
-
-    /// <summary>
-    /// Interact method from IInteractive interface
-    /// </summary>
+    ///<summary>Base Constructor</summary>
+    public Door(string name = "Door")
+    {
+        this.name = name;
+    }
+    ///<summary>Method Interact</summary>
     public void Interact()
     {
-        Console.WriteLine($"You try to open the {name}. It's locked.");
+        Console.WriteLine($"You try to open the {this.name}. It's locked.");
     }
-
-    /// <summary>
-    /// Constructor for Door class
-    /// </summary>
-    public Door(string n = "Door") => name = n;
 }
 
-
 /// <summary>
-/// Decoration class that inherts Base, IInteractive and IBreakable
+/// Decoration base
 /// </summary>
 class Decoration : Base, IInteractive, IBreakable
 {
     /// <summary>
-    /// durability int property
-    /// </summary>
-    public int durability { get; set; }
-
-    /// <summary>
-    /// isQuestItem bool
+    /// bool variable isQuestItem
     /// </summary>
     public bool isQuestItem;
 
     /// <summary>
-    /// Decoration constructor
+    /// durability property
     /// </summary>
-    /// <param name="n">argument name</param>
-    /// <param name="d">argument durabilirty</param>
-    /// <param name="isq">argument isQuestItem</param>
-    public Decoration(string n = "Decoration", int d = 1, bool isq = false)
+    public int durability { get; set; }
+
+    /// <summary>
+    /// Decoration Constructor
+    /// </summary>
+    /// <param name="name">name</param>
+    /// <param name="durability">durability</param>
+    /// <param name="isQuestItem">isquestitem</param>
+    public Decoration(string name = "Decoration", int durability = 1, bool isQuestItem = false)
     {
-        if (d <= 0)
+        if (durability <= 0)
         {
             throw new Exception("Durability must be greater than 0");
         }
-        name = n;
-        durability = d;
-        isQuestItem = isq;
+        this.name = name;
+        this.durability = durability;
+        this.isQuestItem = isQuestItem;
     }
 
     /// <summary>
-    /// Interact void
+    /// Interect method
     /// </summary>
     public void Interact()
     {
@@ -125,7 +99,7 @@ class Decoration : Base, IInteractive, IBreakable
         {
             Console.WriteLine($"The {this.name} has been broken.");
         }
-        else if (isQuestItem == true)
+        else if (isQuestItem)
         {
             Console.WriteLine($"You look at the {this.name}. There's a key inside.");
         }
@@ -136,7 +110,7 @@ class Decoration : Base, IInteractive, IBreakable
     }
 
     /// <summary>
-    /// Break void
+    /// Break method
     /// </summary>
     public void Break()
     {
@@ -147,7 +121,7 @@ class Decoration : Base, IInteractive, IBreakable
         }
         if (durability == 0)
         {
-            Console.WriteLine($"You smash the {this.name} What a mess.");
+            Console.WriteLine($"You smash the {this.name}. What a mess.");
         }
         if (durability < 0)
         {
