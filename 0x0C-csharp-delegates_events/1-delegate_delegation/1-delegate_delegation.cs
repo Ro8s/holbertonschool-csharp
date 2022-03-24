@@ -4,7 +4,7 @@
 /// <summary>
 /// CalculateHealth delegate
 /// </summary>
-/// <param name="num">num</param>
+/// <param name="num">float number</param>
 public delegate void CalculateHealth(float num);
 
 /// <summary>
@@ -12,9 +12,19 @@ public delegate void CalculateHealth(float num);
 /// </summary>
 public class Player
 {
-
+    /// <summary>
+    /// name of the player
+    /// </summary>
     private string name { get; set; }
+    
+    /// <summary>
+    /// Max hp of the player
+    /// </summary>
     private float maxHp { get; set; }
+    
+    /// <summary>
+    /// current hp of the player
+    /// </summary>
     private float hp { get; set; }
 
     /// <summary>
