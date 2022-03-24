@@ -1,6 +1,10 @@
 ﻿using System;
 
 
+/// <summary>
+/// CalculateHealth delegate
+/// </summary>
+/// <param name="num">num</param>
 public delegate void CalculateHealth(float num);
 
 /// <summary>
