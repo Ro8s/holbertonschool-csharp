@@ -1,12 +1,5 @@
 ﻿using System;
 
-
-/// <summary>
-/// CalculateHealth delegate
-/// </summary>
-/// <param name="num">float number</param>
-public delegate void CalculateHealth(float num);
-
 /// <summary>
 /// Player class
 /// </summary>
@@ -22,6 +15,12 @@ public class Player
     /// </summary>
     private float maxHp { get; set; }
     
+    /// <summary>
+    /// CalculateHealth delegate
+    /// </summary>
+    /// <param name="num">float number</param>
+    public delegate void CalculateHealth(float num);
+
     /// <summary>
     /// current hp of the player
     /// </summary>
@@ -90,4 +89,3 @@ public class Player
     }
 
 }
-
